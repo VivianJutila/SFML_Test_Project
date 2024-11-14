@@ -1,0 +1,15 @@
+﻿  AirBlowerForce.cpp
+  main.cpp
+C:\Users\niilo\Visual Studio projects\SFML_test_project\main.cpp(36,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\niilo\Visual Studio projects\SFML_test_project\main.cpp(43,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\niilo\Visual Studio projects\SFML_test_project\main.cpp(59,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niilo\Visual Studio projects\SFML_test_project\main.cpp(60,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niilo\Visual Studio projects\SFML_test_project\main.cpp(60,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niilo\Visual Studio projects\SFML_test_project\main.cpp(60,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niilo\Visual Studio projects\SFML_test_project\main.cpp(61,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\niilo\Visual Studio projects\SFML_test_project\main.cpp(61,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niilo\Visual Studio projects\SFML_test_project\main.cpp(61,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niilo\Visual Studio projects\SFML_test_project\main.cpp(62,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niilo\Visual Studio projects\SFML_test_project\main.cpp(62,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  SFML_test_project.vcxproj -> C:\Users\niilo\Visual Studio projects\SFML_test_project\Debug\SFML_test_project.exe

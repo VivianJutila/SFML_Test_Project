@@ -135,10 +135,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AirBlowerForce.cpp" />
+    <ClCompile Include="Force.cpp" />
+    <ClCompile Include="GravityForce.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Particle.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AirBlowerForce.h" />
+    <ClInclude Include="Force.h" />
+    <ClInclude Include="GravityForce.h" />
     <ClInclude Include="Particle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
